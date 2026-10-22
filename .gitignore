@@ -1,0 +1,13 @@
+﻿# Fichiers contenant des informations sensibles
+.env
+.env.*
+!.env.example
+
+# Dependances Node.js
+node_modules/
+
+# Fichiers generes
+build/
+
+# Dossier des secrets
+secrets/
